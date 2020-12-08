@@ -1,0 +1,70 @@
+#body{
+	font-family: poppins;
+}
+
+#hero{
+	background-image: url("../img/slide-galaxy.jpg");
+	padding: 30% 0;
+	background-position: center;
+}
+#hero h2{
+	text-align: center;
+	font-size: 90px;
+	font-weight: bold;
+	color: #fff;
+	margin: -300px;
+}
+#hero p{
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	padding: 30% 0;
+	margin-top: 300px 0;
+}
+#QLed{
+	text-align: center;
+	background-position: center;
+	margin-left: -300px;
+}
+#QLed h3{
+	font-weight: bold;
+	font-size: 50px;
+	padding: 60px;
+	margin-right: -200px;
+	
+}
+#QLed h4{
+	margin-right: -200px;
+}
+#QLed button{
+	margin-right: -200px;
+}
+#Twin Cooling{
+	text-align: center;
+	background-color: #BDBCBC;
+}
+#Twin Cooling h3{
+	font-weight: bold;
+	font-size: 50px;
+	padding: 60px;
+	margin-left: -300px;
+}
+#The Frame TV{
+	text-align: center;
+	background-position: center;
+	margin-left: -300px;
+}
+#The Frame TV h3{
+	font-weight: bold;
+}
+#Gear Fit2{
+	text-align: center;
+	padding: 15px;
+	
+}
+#Gear Fit2 h3{
+	font-weight: bold;
+	padding: 50px;
+	margin-bottom: 20px;
+}
+
